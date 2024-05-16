@@ -8,7 +8,7 @@ middle_name: especialista
 last_name: en amor
 email: voskevok14@gmail.com
 keywords: daniel-sanders, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 163190715.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://soulcastou.github.io # the base hostname & protocol for your site
 baseurl: /
